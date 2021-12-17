@@ -24,7 +24,7 @@ function Contacts() {
                 <input type="text">
                     </input><br/>
 
-                <button>
+                <button onClick={() => alert('A message is sent to Desiree')} >
                     submit
                     </button>
             </div>
