@@ -12,7 +12,8 @@ function Projects() {
             <div className='msg'>
                 This is my project page....
             </div>
-            <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+            <a href="https://github.com/DesireeBurrell/hw2">Visit myfavoritelink</a> <br/> 
+            <a href="https://github.com/DesireeBurrell/design-pad">Visit myDesignPad</a>
         </div>
     )
 }
